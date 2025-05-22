@@ -125,7 +125,7 @@ Document and store all generated videos along with the corresponding prompts. Ma
 
 ### **Scenarios and Prompting Examples:**
 
-#### ✅ **Scenario 1: Dog in the Park**
+####  **Scenario 1: Dog in the Park**
 
 | Prompt Type       | Prompt                                                                                                                                                                                                                      |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -136,7 +136,7 @@ Document and store all generated videos along with the corresponding prompts. Ma
 
 ---
 
-#### ✅ **Scenario 2: Futuristic Robot Cooking**
+#### **Scenario 2: Futuristic Robot Cooking**
 
 | Prompt Type       | Prompt                                                                                                                                                                                                                                                               |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
