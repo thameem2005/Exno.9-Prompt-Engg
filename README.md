@@ -135,16 +135,8 @@ Document and store all generated videos along with the corresponding prompts. Ma
 | **Variations**    | *A golden retriever running in circles chasing a red ball in a park full of autumn leaves.*<br>*A dog splashing in a fountain in the center of a park, with children laughing in the background and birds flying overhead.* |
 
 ---
-
-#### **Scenario 2: Futuristic Robot Cooking**
-
-| Prompt Type       | Prompt                                                                                                                                                                                                                                                               |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Simple**        | *A robot cooking in a kitchen.*                                                                                                                                                                                                                                      |
-| **Refined**       | *A silver humanoid robot preparing dinner in a high-tech kitchen, placing ingredients into a smart oven with glowing LED panels and robotic arms assisting.*                                                                                                         |
-| **Time & Motion** | *A cinematic video showing a futuristic robot chef chopping vegetables with lightning speed, steam rising from pots, and the camera slowly zooming out to reveal a sleek, neon-lit kitchen.*                                                                         |
-| **Variations**    | *An animated robot flipping pancakes in a retro-futuristic kitchen with pastel colors and hovering utensils.*<br>*A robot cooking a gourmet dish in space, using anti-gravity tools, while floating beside a circular glass window showing Earth in the background.* |
-
+video Link 
+https://drive.google.com/file/d/1hMOA8sg_nnTWbziFPsxL4sRbZ8XFCjAn/view?usp=drivesdk
 ---
 
 ### **Result:**
