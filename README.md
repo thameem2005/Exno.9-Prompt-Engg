@@ -127,7 +127,7 @@ Document and store all generated videos along with the corresponding prompts. Ma
 
 ####  **Scenario 1: Dog in the Park**
 
-| Prompt Type       | Prompt                                                                                                                                                                                                                      |
+| Prompt Type       | Prompt1                                                                                                                                                                                                                     |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Simple**        | *A dog playing in the park.*                                                                                                                                                                                                |
 | **Refined**       | *A golden retriever happily running through a green park on a sunny afternoon, chasing a frisbee thrown by a young boy near a tree.*                                                                                        |
@@ -137,8 +137,13 @@ Document and store all generated videos along with the corresponding prompts. Ma
 ---
 video Link 
 https://drive.google.com/file/d/1hMOA8sg_nnTWbziFPsxL4sRbZ8XFCjAn/view?usp=drivesdk
----
-
+-- -
+# Prompt 2
+ a person dancing energetically in an urban setting, possibly in a public square or street, with dynamic arm and leg movements. The background features buildings and pedestrians, and the mood is upbeat and spontaneous. The dancer appears confident and expressive, performing to a rhythmic beat in daylight. The video is shot with a handheld or slightly shaky camera, giving it a raw, street-style feel.
+ 
+ # video link
+ https://drive.google.com/file/d/1i2l4KccvmW33n4BhYArHw-E3LIREj1nG/view?usp=drivesdk
+ 
 ### **Result:**
 
 The prompt-based video generation techniques were successfully explored using multiple AI tools. Variations in prompt structure significantly influenced video style, content, and motion. The experiment demonstrated the effectiveness of detailed, well-structured prompts in producing high-quality, creative video outputs tailored to specific themes and formats.
